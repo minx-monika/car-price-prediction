@@ -22,6 +22,8 @@ To run this project locally, make sure you have the following Python libraries i
 - `scikit-learn`
 - `pickle` (for model serialization)
 
+---
+
   ## Technologies Used
 
 - **Python**: Programming language used for building the model and the Streamlit web application.
@@ -31,6 +33,8 @@ To run this project locally, make sure you have the following Python libraries i
 - **pickle**: A Python library used to serialize and save the trained machine learning model for deployment.
 - **GitHub**: Platform for hosting and sharing the code and the trained model.
 - **Streamlit Cloud**: A platform for deploying and hosting the web app online.
+
+---
 
 ## Future Improvements
 
